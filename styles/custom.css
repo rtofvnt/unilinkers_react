@@ -1,0 +1,17 @@
+/* src/styles/custom.css */
+.table .btn-success {
+    box-shadow: none;
+    background-color: var(--bs-success);
+    /* or your desired color */
+}
+
+.table .btn-danger {
+    box-shadow: none;
+    background-color: var(--bs-danger);
+    /* or your desired color */
+}
+.table .btn-info {
+    box-shadow: none;
+    background-color: var(--bs-info);
+    /* or your desired color */
+}
